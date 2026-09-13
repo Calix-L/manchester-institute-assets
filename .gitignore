@@ -1,0 +1,9 @@
+/.blendcache/
+/*.blend
+/*.mtl
+/*.obj
+/*.fbx
+/assets/
+/downloads/
+__pycache__/
+*.restoring
