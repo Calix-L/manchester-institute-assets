@@ -1,12 +1,12 @@
-# 曼城学院三维模型资产
+# JEI_3D
 
-**WisdomScape MMJI · 湖北大学曼城联合学院教学楼数字模型**
+**湖北大学曼城联合学院教学楼三维模型资产**
 
-这里保存了曼城学院教学楼的 Blender 工程、OBJ/MTL 和 FBX 模型，覆盖建筑外观、楼层结构及室内空间。项目源自 2025 年 6 月夏令营的 **WisdomScape MMJI** 校园数字孪生项目，为建筑展示、场景开发和后续数字孪生应用提供模型基础。
+**JEI_3D** 保存了曼城学院教学楼的 Blender 工程、OBJ/MTL 和 FBX 模型，覆盖建筑外观、楼层结构及室内空间。项目源自 2025 年 6 月夏令营的 **WisdomScape MMJI** 校园数字孪生项目，为建筑展示、场景开发和后续数字孪生应用提供模型基础。
 
 ![曼城学院教学楼整体外观，Blender 建模截图](docs/images/building-exterior.png)
 
-[下载全部模型](https://github.com/Calix-L/manchester-institute-assets/releases/tag/assets-2026-09-13) · [下载与还原](#下载与还原) · [文件清单](#文件清单) · [图片来源](docs/image-sources.md)
+[下载全部模型](https://github.com/Calix-L/JEI_3D/releases/tag/assets-2026-09-13) · [下载与还原](#下载与还原) · [文件清单](#文件清单) · [图片来源](docs/image-sources.md)
 
 ## 模型预览
 
@@ -47,7 +47,7 @@ WisdomScape MMJI 项目还涵盖数据中枢、物联网平台和边缘智能应
 
 | 项目 | 内容 |
 | --- | --- |
-| 版本 | [`assets-2026-09-13`](https://github.com/Calix-L/manchester-institute-assets/releases/tag/assets-2026-09-13) |
+| 版本 | [`assets-2026-09-13`](https://github.com/Calix-L/JEI_3D/releases/tag/assets-2026-09-13) |
 | 压缩方式 | 无损 ZIP，按字节顺序分卷 |
 | 压缩后大小 | 5,170,099,383 字节（约 5.17 GB） |
 | 分卷 | `.zip.001` 至 `.zip.010`，共 10 卷 |
@@ -63,7 +63,7 @@ WisdomScape MMJI 项目还涵盖数据中枢、物联网平台和边缘智能应
 ### 方法一：浏览器下载
 
 1. 通过仓库的 **Code → Download ZIP** 下载脚本和说明，并解压。
-2. 打开[模型下载页面](https://github.com/Calix-L/manchester-institute-assets/releases/tag/assets-2026-09-13)，展开 **Assets**，下载全部 `manchester-institute-assets.zip.001` 至 `.010`，放进脚本旁的 `downloads` 文件夹。
+2. 打开[模型下载页面](https://github.com/Calix-L/JEI_3D/releases/tag/assets-2026-09-13)，展开 **Assets**，下载全部 `manchester-institute-assets.zip.001` 至 `.010`，放进脚本旁的 `downloads` 文件夹。
 3. 在包含 `restore_assets.py` 和 `assets-manifest.json` 的目录打开终端，运行：
 
 ```powershell
@@ -77,9 +77,9 @@ macOS / Linux 如果使用 `python3` 命令，将上述 `python` 替换为 `pyth
 如果已配置 GitHub CLI，可批量下载全部分卷：
 
 ```powershell
-gh repo clone Calix-L/manchester-institute-assets
-cd manchester-institute-assets
-gh release download assets-2026-09-13 --repo Calix-L/manchester-institute-assets --pattern "manchester-institute-assets.zip.*" --dir downloads
+gh repo clone Calix-L/JEI_3D
+cd JEI_3D
+gh release download assets-2026-09-13 --repo Calix-L/JEI_3D --pattern "manchester-institute-assets.zip.*" --dir downloads
 python restore_assets.py --parts-dir downloads --output-dir assets
 ```
 
