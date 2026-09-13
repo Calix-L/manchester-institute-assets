@@ -1,0 +1,93 @@
+{
+  "repository": "Calix-L/manchester-institute-assets",
+  "release": "assets-2026-09-13",
+  "files": [
+    {
+      "name": "曼城学院.blend",
+      "size": 1321962816,
+      "sha256": "0450766c8b30aed736e3666f26aad14a83430b0194519164f8812a2d97ca25b1"
+    },
+    {
+      "name": "曼城学院.mtl",
+      "size": 214648,
+      "sha256": "6f1ef9b8a54ae87393ceeef99b68e20c6d11b39803705173368c2189b29f8d5d"
+    },
+    {
+      "name": "曼城学院.obj",
+      "size": 14406443718,
+      "sha256": "f0d3eb39eda84239f3319d2da5f62f111c809f94942be6585855a12919763764"
+    },
+    {
+      "name": "曼城学院内部结构.fbx",
+      "size": 350099260,
+      "sha256": "6594f876d357d6b9df96fe8410590ffa5cd0afbe6952f5a998efb402a64a859a"
+    },
+    {
+      "name": "曼城学院外部.fbx",
+      "size": 100016140,
+      "sha256": "5eb1834e476d5eef8bf2afe9300e6595796f51c4333f36ac46abb1e4b406f5fa"
+    },
+    {
+      "name": "曼城学院外部结构.fbx",
+      "size": 100012908,
+      "sha256": "0afa06bc65387aec1d671a2ec1efa4c6614b2096f333e569341939761e84f98c"
+    }
+  ],
+  "archive": {
+    "name": "manchester-institute-assets.zip",
+    "size": 5170099383,
+    "parts": [
+      {
+        "name": "manchester-institute-assets.zip.001",
+        "size": 536870912,
+        "sha256": "15190b78aa5e1863fc4e23592f3d81c6127e7c6c8cc748904ce0c96f5defa645"
+      },
+      {
+        "name": "manchester-institute-assets.zip.002",
+        "size": 536870912,
+        "sha256": "ab0d4739165ca3a6f539025bb8220814daa4daae25fbcbc9587adbf3b3186704"
+      },
+      {
+        "name": "manchester-institute-assets.zip.003",
+        "size": 536870912,
+        "sha256": "f75f9036395ec0d69f9938a4be9ea76f7f3b11b3091b4ae79b5349898ee6abea"
+      },
+      {
+        "name": "manchester-institute-assets.zip.004",
+        "size": 536870912,
+        "sha256": "a1f1d589f294b118f3dde515789d57cf897d75e0a59d8f38863378182691debe"
+      },
+      {
+        "name": "manchester-institute-assets.zip.005",
+        "size": 536870912,
+        "sha256": "f4472c4367f6c59b57f6f1f4deb72fcc563b010d0ad2c961e4078602c25fe1a5"
+      },
+      {
+        "name": "manchester-institute-assets.zip.006",
+        "size": 536870912,
+        "sha256": "552bf47f9a9811cc603264d576e819812fb0d0eccead775a92c47e863cf06dcb"
+      },
+      {
+        "name": "manchester-institute-assets.zip.007",
+        "size": 536870912,
+        "sha256": "8f912cadf233eca058b8be68c7a6ad54f4d7fc294e5b41918bdcbeb6fcfafe72"
+      },
+      {
+        "name": "manchester-institute-assets.zip.008",
+        "size": 536870912,
+        "sha256": "e2750affa66a57e4cb4d4213213bdfa163b987d4f03b7adf81d71b676a6d3f52"
+      },
+      {
+        "name": "manchester-institute-assets.zip.009",
+        "size": 536870912,
+        "sha256": "d263191f32a8e84c3b89623e0c976ff5c416c586f0c39368a33c3e33172cd92d"
+      },
+      {
+        "name": "manchester-institute-assets.zip.010",
+        "size": 338261175,
+        "sha256": "7d4486ba9e29a1e59b6d4b7ea0be73535be89c4c217356e68cf4b8c0548afc4d"
+      }
+    ],
+    "sha256": "a45ba21d1ff707192ea5372575ba54f5958a3315676c262db4999518e433811e"
+  }
+}
